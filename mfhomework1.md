@@ -9,6 +9,8 @@ to highlight text like half-fat one should **frame it with double** or __double 
 alternate ways to highlight _text with **half-fat or cursive exist for both at once**_.
 ## lists
 
+to highlight unnumbered list use (*)
+
 ## images
 
 to add image into text one should write ![my baby's working condition](babyatwork.jpg)
