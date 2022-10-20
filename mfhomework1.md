@@ -14,7 +14,6 @@ to wtite all above at once _**~~text should be framed like this~~**_
 
 ## lists
 
-
 to add unnumbered lists one should highlight item with * or using + or -
 * item 1
 * item 2
@@ -30,9 +29,13 @@ to add numbered lists one should just number them
 
 to add image into text one should write ![my baby's working condition](babyatwork.jpg)
 
-
-
 ## links
+
+to write the link without anchor it should be framed with <https://www.championat.com/football/_italy.html> 
+
+to write the link with anchor one should frame it like that [this link](https://www.championat.com/football/_italy.html)
+
+
 
 ## tables
 
