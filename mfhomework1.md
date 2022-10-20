@@ -9,7 +9,16 @@ to highlight text like half-fat one should **frame it with double** or __double 
 alternate ways to highlight _text with **half-fat or cursive exist for both at once**_.
 ## lists
 
-to highlight unnumbered list use (*)
+
+to add unnumbered lists one should highlight item with * or using +
+* item 1
+* item 2
++ item 3
+
+to add numbered lists one should just number them
+
+1. item 1
+2. item 2
 
 ## images
 
