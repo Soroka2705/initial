@@ -10,14 +10,16 @@ alternate ways to highlight _text with **half-fat or cursive exist for both at o
 
 to cross out text one should ~~frame it with~~
 
+to wtite all above at once _**~~text should be framed like this~~**_
 
 ## lists
 
 
-to add unnumbered lists one should highlight item with * or using +
+to add unnumbered lists one should highlight item with * or using + or -
 * item 1
 * item 2
 + item 3
+- item 4
 
 to add numbered lists one should just number them
 
