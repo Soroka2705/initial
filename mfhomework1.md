@@ -43,6 +43,10 @@ for making tables |---| symbols are being used where | serves for separating par
 
 ## quotes
 
+for quotes > is being used. There are quote levels due to number of > symbols. Maximum is 15.
+>first level quote
+>>second level quote etc
+
 
 
 ## conclusion
