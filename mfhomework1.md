@@ -33,7 +33,7 @@ to add image into text one should write ![my baby's working condition](babyatwor
 
 to write the link without anchor it should be framed with <https://www.championat.com/football/_italy.html> 
 
-to write the link with anchor one should frame it like that [this link](https://www.championat.com/football/_italy.html)
+to write the link with anchor one should frame it like that [Italian Serie A](https://www.championat.com/football/_italy.html)
 
 
 
@@ -51,3 +51,4 @@ for quotes > is being used. There are quote levels due to number of > symbols. M
 
 ## conclusion
 
+for more details follow [here](https://gist.github.com/Jekins/2bf2d0638163f1294637#Blockquotes)
