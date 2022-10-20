@@ -34,6 +34,8 @@ to add image into text one should write ![my baby's working condition](babyatwor
 
 ## links
 
+writing the link with anchor one should frame it like that [this link](https://www.championat.com/football/_italy.html)
+
 ## tables
 
 for making tables |---| symbols are being used where | serves for separating parts of a table, and --- exist for widening it 
