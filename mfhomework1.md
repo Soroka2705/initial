@@ -36,6 +36,8 @@ to add image into text one should write ![my baby's working condition](babyatwor
 
 ## tables
 
+for making tables |---| symbols are being used where | serves for separating parts of a table, and --- exist for widening it 
+
 ## quotes
 
 
