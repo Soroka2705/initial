@@ -11,6 +11,10 @@ alternate ways to highlight _text with **half-fat or cursive exist for both at o
 
 ## images
 
+to add image into text one should write ![my baby's working condition](babyatwork.jpg)
+
+
+
 ## links
 
 ## tables
